@@ -6,7 +6,7 @@ Backend for the GameHaven game library application.
 
 1. Clone the repository and go to the backend folder:
 ```bash
-git clone <repository-url>
+git clone https://github.com/CodedByJani/gamehaven-backend
 cd backend
 
 2. Install dependencies:
